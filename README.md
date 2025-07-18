@@ -51,17 +51,11 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🔒 [Private Portfolio Repository (Access on request)](https://github.com/tuusuario/repositorio-privado)
-- 📸 [Photography Store System](https://github.com/tuusuario/foto-tienda) – Custom CMS with payment integration
-
----
 
 ### 📬 Contact
 
-- 📧 **Email**: juan.villalobos@email.com  
-- 📱 **WhatsApp**: +57 300 XXX XXXX
+- 📧 **Email**: villajuanmora@email.com  
+- 📱 **WhatsApp**: +57 323 283 6497
 
 ---
 
