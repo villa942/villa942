@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animated developer gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzg4emR6dHVoeHQwcGp6MTNpODY3ZjE1cW44YmZueW5ndzZ3OW8zNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Animated developer gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Juan Sebastian Villalobos Morales</h1>
